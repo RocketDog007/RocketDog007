@@ -2,7 +2,7 @@
 - 👀 I’m interested in nuclear rocket science
 - 🌱 I’m currently learning stuff in 8th grade
 - 💞️ I’m looking to collaborate on nothing, but im open to suggestions
-- 📫 How to reach me, don't. ignore 4. ;)
+- 📫 How to reach me, don't. ignore what's abave. ;)
 
 <!---
 RocketDog007/RocketDog007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
